@@ -1,0 +1,8 @@
+Flask
+opencv-python
+pytesseract
+numpy
+torch
+Pillow
+# You no longer need this line:
+# git+https://github.com/ultralytics/yolov5.git
